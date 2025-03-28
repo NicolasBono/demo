@@ -1,14 +1,102 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id_sensor": 1,
+    "ubicacion": { "barrio": "Centro", "latitud": -31.417339, "longitud": -64.183319, "altitud": 450 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 22.5, "humedad": 65, "presion": 1012 }
+  },
+  {
+    "id_sensor": 2,
+    "ubicacion": { "barrio": "Nueva Córdoba", "latitud": -31.426441, "longitud": -64.186764, "altitud": 470 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 23.1, "humedad": 60, "presion": 1010 }
+  },
+  {
+    "id_sensor": 3,
+    "ubicacion": { "barrio": "Alta Córdoba", "latitud": -31.401440, "longitud": -64.178833, "altitud": 460 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 21.8, "humedad": 70, "presion": 1013 }
+  },
+  {
+    "id_sensor": 4,
+    "ubicacion": { "barrio": "General Paz", "latitud": -31.413788, "longitud": -64.172798, "altitud": 455 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 22.0, "humedad": 67, "presion": 1011 }
+  },
+  {
+    "id_sensor": 5,
+    "ubicacion": { "barrio": "Villa Belgrano", "latitud": -31.354111, "longitud": -64.243683, "altitud": 500 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 20.3, "humedad": 75, "presion": 1015 }
+  },
+  {
+    "id_sensor": 6,
+    "ubicacion": { "barrio": "Cerro de las Rosas", "latitud": -31.382, "longitud": -64.229, "altitud": 490 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 21.5, "humedad": 68, "presion": 1012 }
+  },
+  {
+    "id_sensor": 7,
+    "ubicacion": { "barrio": "Urca", "latitud": -31.381, "longitud": -64.233, "altitud": 495 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 22.3, "humedad": 66, "presion": 1011 }
+  },
+  {
+    "id_sensor": 8,
+    "ubicacion": { "barrio": "San Vicente", "latitud": -31.424, "longitud": -64.164, "altitud": 440 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 23.7, "humedad": 59, "presion": 1009 }
+  },
+  {
+    "id_sensor": 9,
+    "ubicacion": { "barrio": "Yofre Norte", "latitud": -31.392, "longitud": -64.144, "altitud": 445 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 22.8, "humedad": 63, "presion": 1010 }
+  },
+  {
+    "id_sensor": 10,
+    "ubicacion": { "barrio": "Las Palmas", "latitud": -31.427, "longitud": -64.209, "altitud": 470 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 21.9, "humedad": 65, "presion": 1013 }
+  },
+  {
+    "id_sensor": 11,
+    "ubicacion": { "barrio": "Argüello", "latitud": -31.317, "longitud": -64.296, "altitud": 505 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 19.8, "humedad": 80, "presion": 1016 }
+  },
+  {
+    "id_sensor": 12,
+    "ubicacion": { "barrio": "Los Boulevares", "latitud": -31.335, "longitud": -64.226, "altitud": 480 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 20.7, "humedad": 72, "presion": 1014 }
+  },
+  {
+    "id_sensor": 13,
+    "ubicacion": { "barrio": "Villa El Libertador", "latitud": -31.461, "longitud": -64.190, "altitud": 430 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 24.0, "humedad": 58, "presion": 1008 }
+  },
+  {
+    "id_sensor": 14,
+    "ubicacion": { "barrio": "San Martín", "latitud": -31.400, "longitud": -64.165, "altitud": 455 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 22.6, "humedad": 64, "presion": 1012 }
+  },
+  {
+    "id_sensor": 15,
+    "ubicacion": { "barrio": "Pueyrredón", "latitud": -31.411, "longitud": -64.181, "altitud": 460 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 23.2, "humedad": 61, "presion": 1011 }
+  },
+  {
+    "id_sensor": 16,
+    "ubicacion": { "barrio": "Guiñazú", "latitud": -31.330, "longitud": -64.191, "altitud": 490 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 21.0, "humedad": 70, "presion": 1014 }
+  },
+  {
+    "id_sensor": 17,
+    "ubicacion": { "barrio": "Poeta Lugones", "latitud": -31.362, "longitud": -64.233, "altitud": 485 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 20.5, "humedad": 74, "presion": 1015 }
+  },
+  {
+    "id_sensor": 18,
+    "ubicacion": { "barrio": "Ampliación Rosedal", "latitud": -31.437, "longitud": -64.227, "altitud": 475 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 21.7, "humedad": 69, "presion": 1013 }
+  },
+  {
+    "id_sensor": 19,
+    "ubicacion": { "barrio": "Empalme", "latitud": -31.422, "longitud": -64.199, "altitud": 460 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 22.9, "humedad": 62, "presion": 1012 }
+  },
+  {
+    "id_sensor": 20,
+    "ubicacion": { "barrio": "Parque Liceo", "latitud": -31.375, "longitud": -64.120, "altitud": 450 },
+    "medicion": { "fecha_hora": "2025-03-28T08:30:00", "temperatura": 23.3, "humedad": 60, "presion": 1010 }
   }
-}
+]
